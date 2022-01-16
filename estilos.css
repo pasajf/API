@@ -1,7 +1,7 @@
 body {
     background-image: linear-gradient(
         180deg,
-        #329e24 5%,
+        #2fb1ec 5%,
         #803cec 20%,
         #e953aa 60%,
         #a36969 95%
@@ -12,7 +12,7 @@ body {
 }
 
 
-main {
+.main {
     align-items: center;
     display: flex;
     height: 100vh;
